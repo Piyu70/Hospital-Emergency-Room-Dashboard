@@ -1,1 +1,3 @@
 # Hospital-Emergency-Room-Dashboard
+
+This project presents an interactive Hospital Emergency Room Dashboard designed to analyze patient and operational data effectively. It provides insights into key metrics such as patient admission status, age group distribution, timeliness of care, gender-wise analysis, and department referrals. The dashboard helps visualize overall hospital performance, identify bottlenecks, and support data-driven decision-making. Built using Excel, it focuses on transforming raw healthcare data into clear, actionable insights through effective visualization and analysis.
